@@ -1,0 +1,7 @@
+/data
+/api/uploads/*.jpeg
+/api/uploads/*.png
+
+# dependencies
+/api/node_modules
+/client/node_modules
